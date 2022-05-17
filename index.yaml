@@ -4,4 +4,4 @@ plugins:
 - name: ImageStreamPlugin
   path: https://raw.githubusercontent.com/konveyor/crane-plugins/main/plugins/Imagestream/index.yaml
 - name: OpenShiftPlugin
-  path: https://raw.githubusercontent.com/alaypatel07/crane-plugins/main/plugins/Openshift/index.yaml
+  path: https://raw.githubusercontent.com/konveyor/crane-plugins/main/plugins/Openshift/index.yaml
